@@ -1,0 +1,3 @@
+[agents.typescript7_migrator]
+description = "Upgrade a TypeScript project to stable TypeScript 7 and verify its full test pipeline."
+config_file = "agents/typescript7-migrator.toml"
